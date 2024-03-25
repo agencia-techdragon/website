@@ -50,9 +50,7 @@ const Home = () => {
                 Criação de websites
               </ServiceTitle>
               <ServiceDescription>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                Donec condimentum lectus sit amet tristique hendrerit. 
-                Nulla non euismod mi. Phasellus lorem sem ...
+                Criamos websites profissionais e modernos que utilizam as melhores tecnologias do mercado. Nossos sites são otimizados para vendas, criando uma conexão entre sua empresa e seus clientes.
               </ServiceDescription>
             </Service>
             <Service>
@@ -61,9 +59,7 @@ const Home = () => {
                 Anúncios
               </ServiceTitle>
               <ServiceDescription>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                Donec condimentum lectus sit amet tristique hendrerit. 
-                Nulla non euismod mi. Phasellus lorem sem ...
+                Fazemos gestão de marketing digital com Facebook Ads e Google Ads, para que seu site sempre esteja no topo das pesquisas e na boca do povo.
               </ServiceDescription>
             </Service>
             <Service>
@@ -72,9 +68,7 @@ const Home = () => {
                 Design
               </ServiceTitle>
               <ServiceDescription>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                Donec condimentum lectus sit amet tristique hendrerit. 
-                Nulla non euismod mi. Phasellus lorem sem ...
+                Fazemos designs profissionais e modernos de websites. Cada detalhe é pensado e projeto para otimizar a apresentação do site e a experiência do usuário.
               </ServiceDescription>
             </Service>
           </ServicesContainer>
