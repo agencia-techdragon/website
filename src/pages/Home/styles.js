@@ -30,6 +30,12 @@ export const Hero = styled.section`
     font-weight: 800;
   }
 
+  @media (max-width: 800px) {
+    >h1 {
+      font-size: 60px;
+    }
+  }
+
   span {
     font-family: Montserrat, Inter, Arial, Helvetica, sans-serif;
     font-weight: 800;
